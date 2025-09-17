@@ -8,4 +8,8 @@
 .error {
     color: red;
 }
+.button-container {
+    display: flex;
+    justify-content: end;
+}
 </style>
